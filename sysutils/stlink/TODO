@@ -1,0 +1,5 @@
+overall this port isnt very hard to finish, there are just minor touches needed:
+- not tested i dont have hardware for it
+- manual pages install in /usr/local/share/man, should be /usr/local/man
+- see if patches can be upstreamed
+- fix links and readme
